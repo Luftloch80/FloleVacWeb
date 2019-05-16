@@ -1,2 +1,3 @@
-const Valetudo = require("./lib/Valetudo");
-new Valetudo();
+// Modifications copyright (C) Flole
+const FloleVacWeb = require("./lib/FloleVacWeb");
+new FloleVacWeb();
